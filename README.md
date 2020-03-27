@@ -5,7 +5,7 @@
 
 ## Présentation :
 
-_Ancien Opérateur-Régleur pour l'entreprise [**Vygon**] (www.vygon.fr)(entrepise qui conçoit des équipements médicaux), entreprise dans laquelle j'ai appris à gérer une équipe d'Opérateurs et de Régleurs mais aussi à former mes collègues sur les nouvelles méthodes à utiliser dans mon atelier. Après 4 années passées dans cette entreprise et après avoir acquis toutes les compétences dont j'avais besoin,j'ai décidé de changer de voie pour me reconvertir dans un milieu que j'apprécie particulièrement...Le développement Web !_
+_Ancien Opérateur-Régleur pour l'entreprise [**Vygon**](www.vygon.fr) (entrepise qui conçoit des équipements médicaux), entreprise dans laquelle j'ai appris à gérer une équipe d'Opérateurs et de Régleurs mais aussi à former mes collègues sur les nouvelles méthodes à utiliser dans mon atelier. Après 4 années passées dans cette entreprise et après avoir acquis toutes les compétences dont j'avais besoin,j'ai décidé de changer de voie pour me reconvertir dans un milieu que j'apprécie particulièrement...Le développement Web !_
 
 ## Formation :
 
