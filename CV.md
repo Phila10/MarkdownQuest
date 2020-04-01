@@ -9,7 +9,7 @@ _Ancien Opérateur-Régleur pour l'entreprise [**Vygon**](https://www.vygon.fr/)
 
 ## Formation :
 
-_Actuellement en formation à la [**Wild Code School**](https://www.wildcodeschool.com/fr-FR), en Développement Web & Mobile spécialisation Javascript._
+_Actuellement en formation à la [**Wild Code School**](https://www.wildcodeschool.com/fr-FR), en Développement Web & Mobile spécialisation Javascript!_
 
 ## Expérience professionnelle :
 
